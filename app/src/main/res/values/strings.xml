@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCardio</string>
+    <string name="scan_credit_card">Scan Credit Card</string>
+</resources>
